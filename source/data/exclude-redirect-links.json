@@ -1,5 +1,9 @@
 [
   {
+    "origin": "https://www.canada.ca/en/services/taxes/income-tax/corporation-income-tax.html",
+    "destination": "/sred/en/services/taxes/income-tax/corporation-income-tax.html"
+  },
+  {
     "origin": "https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/what-are-sred-tax-incentives.html",
     "destination": "/sred/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/what-are-sred-tax-incentives.html"
   }
